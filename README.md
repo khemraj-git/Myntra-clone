@@ -20,7 +20,7 @@ This project is a static clone of the Myntra website, built using only HTML and 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository URL]
+    https://github.com/khemraj-git/Myntra-clone.git
     ```
 2.  **Open `index.html`:** Open the `index.html` file in your web browser.
 
