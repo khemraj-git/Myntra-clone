@@ -2,7 +2,7 @@
 
 This project is a static clone of the Myntra website, built using only HTML and CSS. It aims to replicate the basic layout and visual style of Myntra's homepage.
 
-**Note:** This is a static clone. It does not include any dynamic functionality (e.g., search, product filtering, cart functionality) or JavaScript.
+**Note:** This is a static clone. It does not include any dynamic functionality (e.g., search, product filtering, cart functionality) or JavaScript
 
 ## Features
 
